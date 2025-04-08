@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../java programming language"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "HTML TUTORIALS",
+		"java.dependency.syncWithFolderExplorer": false,
+		"java.dependency.packagePresentation": "hierarchical"
+	}
+}
